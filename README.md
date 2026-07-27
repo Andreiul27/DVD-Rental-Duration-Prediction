@@ -9,7 +9,7 @@ or less on the test set.
 ## Goals / Questions I explored
 - Can we accurately predict DVD rental duration from customer and movie data?
 - Which features are most relevant for predicting rental length?
-- Which regression model performs best — Linear Regression or Random Forest?
+- Which regression model performs best: Linear Regression or Random Forest?
 
 ## Tools & Libraries
 Python, pandas, NumPy, scikit-learn (Lasso, LinearRegression, 
