@@ -19,7 +19,7 @@ RandomForestRegressor, RandomizedSearchCV)
 1. Loaded rental data and parsed rental/return dates to calculate rental length in days
 2. Engineered features from special_features column (deleted scenes, behind the scenes)
 3. Removed data leakage columns (return date, rental date)
-4. Applied **Lasso regression** for feature selection — reduced 14 features down to 4
+4. Applied **Lasso regression** for feature selection that reduced 14 features down to 4
 5. Trained and compared **Linear Regression** and **Random Forest** models
 6. Used **RandomizedSearchCV** with 5-fold cross-validation to tune Random Forest
 
